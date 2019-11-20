@@ -10,12 +10,12 @@ Vijaybabu Gangaprasad
 
 ## Data
 
-NYC Crime data - [Kaggle](https://www.kaggle.com/)
-NYC Parking tickets - [Kaggle](https://www.kaggle.com/)
-Pollution - [Kaggle](https://www.kaggle.com/)
-NYC Restaurant Inspection - [NYC Open Data](https://opendata.cityofnewyork.us/)
-NYC Motor Vehicle Collisions - [NYC Open Data](https://opendata.cityofnewyork.us/)
-NYPD Complaint Data  - [NYC Open Data](https://opendata.cityofnewyork.us/)
+NYC Crime data - [Kaggle](https://www.kaggle.com/) 
+NYC Parking tickets - [Kaggle](https://www.kaggle.com/) 
+Pollution - [Kaggle](https://www.kaggle.com/) 
+NYC Restaurant Inspection - [NYC Open Data](https://opendata.cityofnewyork.us/) 
+NYC Motor Vehicle Collisions - [NYC Open Data](https://opendata.cityofnewyork.us/) 
+NYPD Complaint Data  - [NYC Open Data](https://opendata.cityofnewyork.us/) 
 
 
 ## Project Proposal
