@@ -28,9 +28,10 @@ Each one of us were assigned with a task of
 -	Transforming the data by
 	-	Removing unwanted columns
 	-	Replacing/Removing unknown/Null values with valid values
-	-	Adding new fields to help with the analysis
+	-	Adding new fields to help with the analysis (extracted Year from Date)
+	-	Filling the missing data with 0 (ex: zipcode )
 -	Loading it in tables to do the analysis
-	-	Designing the tables
+	-	Designing the tables including junction tables
 	-	Creating Schemas for the tables
 	-	Creating tables
 	-	Loading the data
