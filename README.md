@@ -35,3 +35,7 @@ Each one of us were assigned with a task of
 	-	Creating Schemas for the tables
 	-	Creating tables
 	-	Loading the data
+	
+## Files for NYCCollisions are available at this other repo https://github.com/ibawany65/etl-project.git due to github space restrcitions and LFS limits.
+
+
