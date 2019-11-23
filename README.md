@@ -14,7 +14,7 @@
 -	NYC Parking tickets - [Kaggle](https://www.kaggle.com/) 
 -	Pollution - [Kaggle](https://www.kaggle.com/) 
 -	NYC Restaurant Inspection - [NYC Open Data](https://opendata.cityofnewyork.us/) 
--	NYC Motor Vehicle Collisions - [NYC Open Data](https://opendata.cityofnewyork.us/) 
+-	NYC Motor Vehicle Collisions - [NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/) 
 -	NYPD Complaint Data  - [NYC Open Data](https://opendata.cityofnewyork.us/) 
 
 
