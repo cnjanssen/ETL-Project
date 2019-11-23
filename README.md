@@ -10,7 +10,7 @@
 
 ## Data
 
--	NYC Crime data - [Kaggle](https://www.kaggle.com/) 
+-	NYC Crime data - [Kaggle](https://www1.nyc.gov/site/nypd/stats/crime-statistics/historical.page) ,# Data used :Historical Crime 			Data by Precinct (4 Excel files)
 -	NYC Parking tickets - [Kaggle](https://www.kaggle.com/) 
 -	Pollution - [Kaggle](https://www.kaggle.com/) 
 -	NYC Restaurant Inspection - [NYC Open Data](https://opendata.cityofnewyork.us/) 
