@@ -38,4 +38,5 @@ Each one of us were assigned with a task of
 	
 ## Files for NYCCollisions are available at this other repo https://github.com/ibawany65/etl-project.git due to github space restrcitions and LFS limits.
 
+## File For NY Restaurant Inspection are available at other repo https://github.com/congntran92/ETL_Project.git due to github space limit.
 
